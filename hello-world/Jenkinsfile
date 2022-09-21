@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Compile') {
             steps {
-                echo 'Compile the source code' 
+                echo 'Lindsey Pereira' 
             }
         }
         stage('Security Check') {
